@@ -1,0 +1,54 @@
+{
+  "Tool_BrowserPairs": [
+    {
+      "ATool": "selenium",
+      "Browser": "chrome",
+      "Result": true
+    },
+    {
+      "ATool": "puppeteer",
+      "Browser": "MicrosoftEdge",
+      "Result": true
+    },
+    {
+      "ATool": "playwright",
+      "Browser": "MicrosoftEdge",
+      "Result": true
+    },
+    {
+      "ATool": "puppeteer",
+      "Browser": "chrome",
+      "Result": true
+    },
+    {
+      "ATool": "playwright",
+      "Browser": "webkit",
+      "Result": true
+    },
+    {
+      "ATool": "playwright",
+      "Browser": "chrome",
+      "Result": true
+    },
+    {
+      "ATool": "selenium",
+      "Browser": "MicrosoftEdge",
+      "Result": true
+    },
+    {
+      "ATool": "playwright",
+      "Browser": "firefox",
+      "Result": true
+    },
+    {
+      "ATool": "selenium",
+      "Browser": "firefox",
+      "Result": true
+    },
+    {
+      "ATool": "puppeteer",
+      "Browser": "firefox",
+      "Result": true
+    }
+  ]
+}
