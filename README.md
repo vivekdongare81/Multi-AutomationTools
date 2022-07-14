@@ -1,7 +1,7 @@
 
 # Multi-Automation
 
-A project consists of Web Automation using multiple Automation Libraries / tools with respective Supported browsers installed. <br/>
+A project consists of Web Automation using multiple Automation Libraries / tools with respective Supported browsers installed \& analysis the results whether AT is getting detected. <br/>
 
 Tools/Tech used - Node.js, Express, ejs, mysql, Automation Tools/Libraries (Selenium, Playwright, Puppeteer-Stelth )
 
